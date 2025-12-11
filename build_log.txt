@@ -1,0 +1,34 @@
+748 INFO: PyInstaller: 6.17.0, contrib hooks: 2025.10
+748 INFO: Python: 3.11.0
+766 INFO: Platform: Windows-10-10.0.19045-SP0
+766 INFO: Python environment: C:\Users\yigit\OneDrive\Masaüstü\cashfollower\.venv311
+767 INFO: wrote C:\Users\yigit\OneDrive\Masaüstü\cashfollower\app.spec
+770 INFO: Removing temporary files and cleaning cache in C:\Users\yigit\AppData\Local\pyinstaller
+781 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\yigit\\OneDrive\\Masaüstü\\cashfollower',
+ 'C:\\Users\\yigit\\AppData\\Local\\Programs\\Python\\Python311\\python311.zip',
+ 'C:\\Users\\yigit\\AppData\\Local\\Programs\\Python\\Python311\\DLLs',
+ 'C:\\Users\\yigit\\AppData\\Local\\Programs\\Python\\Python311\\Lib',
+ 'C:\\Users\\yigit\\AppData\\Local\\Programs\\Python\\Python311',
+ 'C:\\Users\\yigit\\OneDrive\\Masaüstü\\cashfollower\\.venv311',
+ 'C:\\Users\\yigit\\OneDrive\\Masaüstü\\cashfollower\\.venv311\\Lib\\site-packages',
+ 'C:\\Users\\yigit\\OneDrive\\Masaüstü\\cashfollower']
+1990 INFO: Appending 'datas' from .spec
+ERROR: Unable to find 'C:\\Users\\yigit\\OneDrive\\Masaüstü\\cashfollower\\"autosave.csv' when adding binary and data files.
+200 INFO: PyInstaller: 6.17.0, contrib hooks: 2025.10
+200 INFO: Python: 3.11.0
+216 INFO: Platform: Windows-10-10.0.19045-SP0
+216 INFO: Python environment: C:\Users\yigit\OneDrive\Masaüstü\cashfollower\.venv311
+216 INFO: wrote C:\Users\yigit\OneDrive\Masaüstü\cashfollower\app.spec
+216 INFO: Removing temporary files and cleaning cache in C:\Users\yigit\AppData\Local\pyinstaller
+231 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\yigit\\OneDrive\\Masaüstü\\cashfollower',
+ 'C:\\Users\\yigit\\AppData\\Local\\Programs\\Python\\Python311\\python311.zip',
+ 'C:\\Users\\yigit\\AppData\\Local\\Programs\\Python\\Python311\\DLLs',
+ 'C:\\Users\\yigit\\AppData\\Local\\Programs\\Python\\Python311\\Lib',
+ 'C:\\Users\\yigit\\AppData\\Local\\Programs\\Python\\Python311',
+ 'C:\\Users\\yigit\\OneDrive\\Masaüstü\\cashfollower\\.venv311',
+ 'C:\\Users\\yigit\\OneDrive\\Masaüstü\\cashfollower\\.venv311\\Lib\\site-packages',
+ 'C:\\Users\\yigit\\OneDrive\\Masaüstü\\cashfollower']
+683 INFO: Appending 'datas' from .spec
+ERROR: Unable to find 'C:\\Users\\yigit\\OneDrive\\Masaüstü\\cashfollower\\"autosave.csv' when adding binary and data files.
